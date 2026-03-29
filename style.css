@@ -8,7 +8,7 @@
 /* BACKGROUND FIX (NO STRETCH) */
 body {
     display: flex;
-    background: url('images/kisho image.jpeg') no-repeat center center fixed;
+    background: url('./image/profile.jpeg') no-repeat center center fixed;
     background-size: cover;
     color: white;
     position: relative;
