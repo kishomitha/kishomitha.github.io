@@ -1,16 +1,16 @@
-# 👋 Kishomitha
+#  Kishomitha
 
-🎓 ECE Student | 💡 IoT & Embedded Systems | 🌐 Full Stack Enthusiast  
+ ECE Student |  IoT & Embedded Systems |  Full Stack Enthusiast  
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 Passionate Electronics and Communication Engineering student focused on building real-world solutions using **Embedded Systems, IoT, and Web Development**. I enjoy combining hardware and software to create smart applications.  
 
 ---
 
-## 🛠️ Skills  
+##  Skills  
 
 * **Languages:** C, Java, Python  
 * **Web:** HTML, CSS, JavaScript, React  
@@ -19,7 +19,7 @@ Passionate Electronics and Communication Engineering student focused on building
 
 ---
 
-## 💡 Projects  
+##  Projects  
 
 * **Smart Classroom System** – Attendance, role-based login, MongoDB integration  
 * **Auto Sorting Coin Bank** – Arduino-based coin detection system  
@@ -27,16 +27,16 @@ Passionate Electronics and Communication Engineering student focused on building
 
 ---
 
-## 📜 Certifications  
+##  Certifications  
 
 AI, Cloud & Cyber Security courses from HP LIFE, Google Cloud & ISRO  
 
 ---
 
-## 📫 Contact  
+##  Contact  
 
-📧 kishomithakisho@gmail.com  
-🌐 https://kishomitha.github.io  
+ kishomithakisho@gmail.com  
+ https://kishomitha.github.io  
 
 ---
 
